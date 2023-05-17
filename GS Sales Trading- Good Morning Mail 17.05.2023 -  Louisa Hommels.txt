@@ -1,0 +1,238 @@
+Market Insights
+GS Sales Trading: Good Morning Mail 17.05.2023
+FICC and Equities | 17 May 2023 | 6:09AM UTC
+
+U.S. Recap
+§
+
+§
+§
+
+§
+
+§
+
+§
+
+§
+
+S&P -64bps closing @ 4,109 w/ an $ insignificant MOC. NDX +09bps @ 13,426,
+R2K -144bps @ 1,736 and Dow -101bps @ 33,012. VIX +5.26% @ 18.01, crude
+-79bps @ 70.54, 10yr yields +4bps @ 3.54%, gold -138bps @ 1,994, dxy
++16bps @ 102.63 and bitcoin -145bps @ 26,960.
+9.3b shares traded across all US equity exchanges vs ytd daily avg of 11.3b
+shares. Our desk was a 6 on 1 – 10 scale in terms of overall activity levels.
+A better than expected rebound in retail spending, but it’s certainly not getting
+much excitement given the data is backwards looking and not the narrative
+we’re hearing from companies – our US Retail Basket finished down -2.8%
+today (GSXURETL). The sales report was strong and arguably helps the
+hawkish fed narrative a bit. Retail sales increased 0.4% (mom sa) in April,
+reflecting an increase in auto sales (+0.4%), a surprising decline in gasoline
+station sales (-0.8%), and a larger than expected 0.7% increase in core retail
+sales (ex. autos, gasoline, and building materials). Industrial and
+Manufacturing production also came in much stronger than expected on both
+measures. Following yesterday’s data, we boosted our Q2 GDP tracking
+estimate by two tenths to +2.0% (qoq ar) and our past-quarter GDP tracking
+estimate for Q1 by three tenths to +1.4%. Our Q2 domestic final sales growth
+forecast stands at +1.9%.
+Overall executed flow on our desk ended with a -510bps sell skew vs 30d avg
+of +123bps. On the back of stronger econ data yesterday morning, we saw an
+uptick in rates and risk off in speculative/most shorted complexes. Retail also
+traded very heavy (QRTEA -13%, QUOT -7.6%, SFIX -8%, ETSY -5%, EBAY 4.6%). The increase in questions on the move lower is indicative that people
+are running more long risk than they have been (we saw this in our PB stats
+last week - long buys outpaced short covers ~5 to 1, largest notional long
+buying in 7 weeks, though Net leverage is still running super lean in the 7%
+percentile on a 3-yr lookback).
+Yesterday was another day of Mega Cap tech out-performance. MAGMA
+accounted for ~144% of the S&P move with AMZN (+2%), GOOGL (+2.6%),
+NVDA (+2.5%), MSFT (+75bps) continuing to benefit from somewhat of a
+TINA type behavior. L/Os finished -15% better for sale, driven by trims in
+Health Care, Staples, and Industrials. HFs finished 130bps better to buy,
+driven by covers in HC on the back of Arb related weakness.
+Arbitrage Pain: HZNP (-15%) was the entire focus ytd morning after headlines
+hit that the FTC expects to file a lawsuit to block Amgen’s (AMGN) ~$30 billion
+acquisition. Investors were questioning impact/read-thrus to the broader arb
+space and pharma/biotech M&A in general. Risk remains acute for now with
+spillover only to PFE’s $40bn acquisition of SGEN (-6%). Amgen response to
+FTC, “we remain committed to completing this acquisition and intend to work
+with the court on a schedule that would allow the transaction to close by midDecember."
+ADRs: Tons of inbounds on the magnitude lower on weaker prints, which
+suggests the space is more crowded than people appreciate. SE (-18%) posted
+
+§
+
+§
+
+§
+
+§
+
+§
+
+revs short of expectations. IQ (-8%) and TME (-3.5%) both underperformed
+despite legitimately strong prints as investors appear as though they were
+hoping to take profits on strength after EPS. BIDU, where we know positioning
+has lightened up, outperformed despite a good but not great quarter (+4%).
+HD: Finished just -2% on their worst comp in 14 years. We think most
+investors actually understand the move, even if they’re skeptical of it. Short
+interest is at 6 year highs and it had underperformed LOW by 1000 bps
+YTD. We did not see core holders add on weakness. Do think investors get the
+move, but think it will have a hard time actually going notably higher, since
+tone was more cautious and valuation somewhat full.
+TGT: We think the set-up here leans modestly short, but believe both bulls and
+bears seem very nervous. We think most HF’s lean negative for this quarter,
+given the big share losses to WMT, who is comping much higher. However, we
+think most want to flip this and go long into 2Q, as that is when they’ll lap the
+inventory issues from last year and the easy -890 bps gross margin compare.
+(reports today pre-mkt)
+TJX: Expectations are for a clear beat, unlike the lower expectations for their
+top peers BURL and ROST. For 1Q, most expect 1Q comps of +4% vs consensus
++2.7% (which is pretty good, given most expect ROST and BURL to both miss).
+EPS $0.75-$0.80, about $0.05-$0.10 of upside. Likely reaffirm or tweak the
+guide slightly higher. (reports today pre-mkt)
+Derivs: The street continues to get lifted on wingy VIX upside, something to be
+mindful of if we do get any vol shock around the debt limit. In micro vol, we
+continue to see upside interest in TMT / AI-exposed names i.e. AMD, AMZN,
+etc. as the macro backdrop continues to be supportive for large cap Tech and
+these stocks continue to break thru technical levels. Our consumer pad was
+also active in Retailers around earnings this week, notably in TGT which
+reports today. Implied move is ~6%. We’ve seen clients buy short dated calls /
+call spread collars ahead of the print. Consensus view is TGT positioning
+skews negative so some clients believe risk/reward is higher on a better-thanfeared print given the low bar and likely cover bid.
+Debt Limit: Democratic President Joe Biden and top congressional Republican
+Kevin McCarthy edged closer to a deal. After an hour of talks, McCarthy, the
+speaker of the House of Representatives, told reporters the two sides
+remained far apart on an agreement to lift the debt ceiling. But he said, “It is
+possible to get a deal by the end of the week. It’s not that difficult to get to an
+agreement.” Biden and McCarthy named their top negotiators, Biden will even
+cut his G7 trip short in hopes of closing a deal before June 1st. Investors
+rightfully have been jittery about the unimaginable, however - per Treasury
+Sec Yellen: “We are already seeing the impacts of brinksmanship: investors
+have become more reluctant to hold government debt that matures in early
+June.”
+
+Asia
+§
+
+Asia-Pacific markets are trading mixed today, with NIKKEI +87bps (above
+important 30,000 level) and KOSPI +61bps while HSI -78bps (HS Tech -40bps)
+
+§
+
+§
+
+§
+
+underperforming on Healthcare (Microport -6.3%, New Horizon -4.8%) and
+Mainland China’s CSI300 -55bps.
+Japan emerges from recession on post-COVID consumer rebound: Japan’s
+economy grew 1.6% in the first quarter on an annualized basis (vs. 0.7%
+expected). Quarter-on-quarter, the economy grew 0.4% (vs. 0.1% expected).
+Australia wage growth hits decade-high, quarterly gains miss
+forecasts: Australia’s wage price index rose 3.6%yoy in the first quarter. The
+reading was higher than the previous period when the wage price index rose
+3.3%yoy. Quarter-on-quarter, the nation’s wage price index rose 0.8%, slightly
+below expectations to see growth of 0.9%.
+Singapore’s non-oil domestic exports in April grew 2.7% compared to the
+month before (vs. -3% expected). On a year-on-year basis however, non-oil
+domestic exports fell 9.8% (vs. 9.4% expected). Singapore’s total trade fell to
+SG$100.3 billion in April (-18.8%yoy drop, vs. -8.6% in March).
+
+Chart(s) of the Day
+Semis & Semi Equip stocks collectively now make up 1.0% of the total US Single Stock
+Net exposure on the Prime book (vs. -1.5% at the start of 2023 as book was net short
+Semis), the highest level since Jun '22 though still well below five-year averages in the
+19th percentile.
+
+Source: Goldman Sachs FICC and Equities and Prime Services data as of May 16, 2023. Past performance is not indicative of
+future results.
+
+S&P Net Profit Margins …..
+
+Euro-zone industrial production slumped by 4.1% in March from the previous month —
+its biggest decline since July 2022. The largest contractions were seen in Ireland and
+Germany, the motor of the region’s economy. When broken down by category, by far the
+most significant drop was from capital goods, whose production fell by 15.4% on the
+month.
+
+Foreign funds have accelerated buying of Indian stocks, pouring in more than $1 billion
+in each of the past three weeks, as Asia’s fastest-growing economy is seen as a safe
+haven amid concerns of a global slowdown. The strongest inflow to Indian equities
+since last August comes amid disappointment over China’s economic recovery as well as
+fears that an impending recession in the US may pressure corporate earnings in exportfocused economies including Taiwan and South Korea.
+
+Closed Markets
+§
+
+Norway, Sweden half day (close 12:55-13:00 CET)
+
+Key Macro Events Today
+EMEA / UK (CET)
+§
+§
+§
+§
+§
+§
+
+07:30 French Unemployment Rate, 1Q (consensus 7.0%, last 7.0%)
+11:00 Euro Area HICP, Apr F (GS 6.9%yoy, consensus 7.0%yoy, last 6.9%yoy)
+11:00 Euro Area Core CPI, Apr F (GS 5.6%yoy, consensus 5.6%yoy, last
+5.6%yoy)
+11:00 Euro Area ECB's Elderson Speaks
+11:30 Euro Area ECB's Panetta Speaks
+17:15 Euro Area ECB's de Guindos Speaks
+
+USA (CET)
+§
+§
+
+14:30 Housing starts, April (GS -1.1%, consensus -1.4%, last -0.8%)
+14:30 Building permits, April (consensus flat, last -7.7%)
+
+Sector and Factor Rotations
+
+Source: Goldman Sachs Global Banking & Markets, EMEA Flow only
+
+Single Stocks in Focus
+§
+§
+§
+§
+§
+§
+§
+§
+§
+§
+§
+
+UBS flags $17 billion hit from Credit Suisse takeover RTRS – 17.05.23
+Stellantis says UK needs to change Brexit deal RTRS – 17.05.23
+SAP raises 2025 outlook, launches 5 bln euro share buyback RTRS – 16.05.23
+Vodafone’s New CEO Cuts 11,000 Jobs and Warns No ‘Quick Fix’ BBG –
+16.05.23
+Siemens Hikes Outlook Again After Revenue, Orders Surge BBG – 17.05.23
+Commerzbank 1Q Net Beats Estimates; Sees 2023 NII About €7b BBG –
+17.05.23
+SoftwareONE Maintains FY Adjusted Ebitda Margin Forecast BBG – 17.05.23
+Elon Musk reverses course and says Tesla will advertise its cars RTRS –
+16.05.23
+US FTC sues to block Amgen's $27.8 bln deal for Horizon Therapeutics RTRS –
+16.05.23
+OpenAI chief concerned about AI being used to compromise elections RTRS –
+16.05.23
+Ex-First Republic CEO blames contagion for bank's collapse RTRS – 16.05.23
+
+§
+
+WeWork CEO Mathrani to step down after joining Sycamore Partners as
+director RTRS – 16.05.23
+
+Markets in a Nutshell
+
+Source: Goldman Sachs Global Banking & Markets - FICC & Equities
+
+Have a great start and happy trading!
+
+

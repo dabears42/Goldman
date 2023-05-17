@@ -1,0 +1,107 @@
+Market Insights | Markets | Foreign Exchange
+* 2 Mins Read: GS Debt-Ceiling Updates...
+FICC and Equities | 17 May 2023 | 11:58AM UTC
+Latest updates/views on the US debt-ceiling from around the GS floor:
+§
+
+§
+
+§
+
+§
+
+Alec Phillips (Y/day): Base-case that Treasury’s cash balance will drop to minimal
+levels June 8-13, while remaining positive (although some risk that cash fully
+exhausted by 8-9 June); 15th Jan tax-deadline would replenish cash-reserves and then
+push x-date back to late-July. At moment, both sides treating early June as a hard
+deadline, would elevate risks if they started to view that date as more ‘soft’.
+Constructive tone to negotiations, but still not expecting real progress until much
+closer to the deadline
+Mike Cahill (Today): Two positive signs of progress in the talks yesterday: i) Biden
+announcing that he will cut his Asia trip short is a tangible marker they are working
+towards a deal; ii) Decision to narrow the negotiating teams a sign that talks have
+moved to a more advanced stage. Relatively small tax receipt intake of $1.6bn
+(announced last night) focusing minds on early June deadline. The way the calendar
+falls, as highlighted by Alec, presents a risk that Treasury might have to delay some
+payments if there is no agreement over the next couple of weeks, but lowers the risk
+that a debt payment will be at risk
+Simon Costello: USDJPY vol market prices just 1.5 extra days of variance relating to
+the debt ceiling through the summer; roughly 1/3rd for early June and 2/3rd midJul+. This equates to ~75bps of gap risk if combined for one day. We think aggregate
+weights screen as low and like owning ATM gamma for early June; the real left tail
+likely comes further into July.
+Kristian Brauten-Smith: XXXJPY levels offer better selling opportunities here, our
+bias being to run short USDJPY vs 138.00/20. The widely held belief that the issue
+needs to get worse before getting better may lead to relatively lacklustre moves in
+G10 compared to what we thought at the end of April, but still scope to venture 35% lower in Yen crosses (vs the 5-7% previously pencilled in).
+
+Adam
+Alec Phillips (Chief US Political Economist) summarised: “Our central scenario is still that
+the Treasury’s cash balance will drop to minimal levels from June 8-13 (a June 15 tax deadline
+will boost the cash balance) but it is more likely than not to remain positive during that
+period; we believe there is a high probability that Treasury will exhaust resources by late July.
+That said, growth in withheld tax receipts appears to be on a downtrend so, while not our
+central scenario, there is a clear risk that Treasury fully exhausts its cash by June 8-9. Given
+this, and the practical risks that even a low but positive cash balance poses to Treasury debt
+management, Treasury's projection of an early June deadline is very understandable. For now,
+we think that both sides are treating early June as a hard deadline, though there is a risk that
+some lawmakers might come to regard this as a "soft" deadline if they do not expect the
+Treasury to deplete its cash during those few days in early June. Markets have recently taken
+comfort in Biden’s constructive tone and the seeming intensity of negotiations—a week ago, it
+was unclear whether the White House would even engage in negotiations over spending
+changes along with the debt limit increase. That said, we do not think many, if any, market
+
+participants expected real progress until much closer to the deadline, so little headway made
+after the first week of talks should hardly come as a surprise.”
+Full note here
+Mike Cahill (FX Strategy): “There were two positive signs of progress in the talks yesterday.
+First, President Biden announcing that he will cut his Asia trip short, while not unexpected, is
+a tangible marker that they are working towards a deal with the early June deadline in mind.
+Second, the decision to narrow the negotiating teams is a sign that talks have moved to a more
+advanced stage.
+Yesterday’s relatively small tax receipt intake of $1.6bn, together with Treasury Yellen’s
+updated guidance, clears another bit of uncertainty and helps focus the deadline. From a
+markets standpoint, it’s encouraging that leaders appear to be taking the early June deadline
+seriously. That said, the way the calendar is shaping up as Alec outlines above presents a clear
+risk that Treasury might have to delay some payments if there is no agreement over the next
+couple of weeks, but at the same time the schedule probably lowers the risk that a debt
+payment will be at risk. For that reason, I think markets will continue to treat the debt ceiling
+as a second order risk—much the same as it was in the Summer 2011 debt ceiling standoff
+when Greek banks dominated headlines and market moves.”
+With tax receipts on a downtrend, there is a clear risk that Treasury fully exhausts its cash by
+June 8-9
+
+Simon Costello (Pac-Rim FX Options Trading): “The USDJPY vol market prices just 1.5 extra
+days of variance relating to the debt ceiling through the summer. This is spit roughly 1/3rd for
+early June and 2/3rd mid-Jul+. The total 1.5days equates to ~75bps of gap risk if combined for
+one day. We view the aggregate weights as being quite low and think we can ultimately price
+roughly double the current dayweights if the situation deteriorates from here.
+Positioning is actually very light and we have fielded more questions on the subject than firm
+price requests. The flows relating to this theme have mostly focused on the mid/late July
+period as per GIR’s central scenario and have largely been via outright OTM puts (rather than
+leveraged plays) from hedge funds and some RM names. We did see some demand for ATM
+gamma over the early June dates, mostly from vol accounts.
+
+We generally agree with our franchise’s intuition here; we too view June as a more symmetric
+period for which we like owning ATM gamma (includes scope for a resolution) and we think
+the real left tail likely comes further into July. Big picture, 3m JPY vol is around 1year lows and
+prices below 1m, 2m & 3m realized vol. 3m 130 puts for ~85bps are an attractive hedge to a
+potential growth shock over the summer.”
+Kristian Brauten-Smith (G10 FX Trading): “The markets conviction on what is the correct FX
+hedge for a debt ceiling impasse is lower compared to the end of April. The small sample size
+when studying previous episodes, the lack of confidence attributing any of those moves in FX
+specifically to the debt ceiling, paired with frustrating price action in consensus trades more
+generally over the past two weeks, puts FX positioning for the possible escalation at the lighter
+end of recent extremes.
+However, we still believe that risk pairs should be contained into the beginning of June, and
+that XXXJPY levels offer better selling opportunities here with our bias being to run short
+USDJPY vs 138.00/20. The widely held belief that the issue needs to get worse before getting
+better may lead to relatively lacklustre moves in G10 compared to what we thought at the end
+of April, but there is still scope to venture 3-5% lower in Yen crosses (vs the 5-7% previously
+pencilled in).
+Spot has a tendency to attempt to play events a couple of moves ahead, so were the market to
+get comfortable that a ~1 week problem-period early June would kick start more constructive
+conversations between both sides, any such dip in risk may prove short lived. We prefer to
+position from now into the end of May, but retain a cautious approach and set a relatively high
+bar to blindly adding in June.”
+
+
